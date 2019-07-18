@@ -11,7 +11,16 @@ Context API
 
 - Index.js (Renders the app)
 - App.js (Gathers all the components)
-- MORE TO COME
+- toDoContext.js (To Do List context file for the app)
+- styleContext.js (Context file for the styling & css)
+- counterContext.js (Context file for the counter)
+- counter.js (Handles the counter rendering)
+- decrement.js (Handles the decrement button)
+- increment.js (Handles the increment button)
+- form.js (Renders the form)
+- index.js (If functionality)
+- list.js (Renders the To Do list)
+- todo.js (Collects the form and list componenets)
 
 ## Setup (Dependencies)
 
@@ -30,8 +39,9 @@ Context API
 
 ## Tests
 
-- Not In Place YET
+- 'npm test`
 
 ## UML
 
-<!-- ![Lab Solution Login and Auth](assets/lab_solution.JPG) -->
+[Diagram of Lab Context API](https://codesandbox.io/s/context-api-oefy0) 
+  Please navigate to `assets/context_API.JPG` on codesandbox.io.
